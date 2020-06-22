@@ -4,3 +4,7 @@
 npm install mocha -g
 
 npm install chai
+
+node score.js   // 순위가 추가된 리스트 콘솔 출력
+
+mocha ./test/test.js   // score UnitTesting 
